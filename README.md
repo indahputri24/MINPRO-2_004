@@ -28,43 +28,39 @@ Indah Putri Lestari | 2409116004 | Sistem Informasi A
 
    ![Cuplikan layar 2024-10-14 213633](https://github.com/user-attachments/assets/b6893f2d-38e0-426e-8337-2c546408433c)
 
-3. Admin memilih tambah barang, maka akan menampilkan tabel dan masukkan nomor, nama, harga, include, stok
+3. Admin memilih tambah barang, maka akan menampilkan tabel dan masukkan nomor, nama, harga, include
 
-   ![Cuplikan layar 2024-10-14 214329](https://github.com/user-attachments/assets/8ee166b9-8e66-4579-8afd-4a4eaa6e4ec0)
+   ![image](https://github.com/user-attachments/assets/d5f2cb2f-18cf-42fd-b4e5-dcb52096926c)
 
    Memilih menambah paket lagi atau tidak, jika tidak dia akan kembali ke menu admin. Memilih 2. Lihat Paket, akan menampilkan paket yang telah ditambah
      
-   ![Cuplikan layar 2024-10-14 215447](https://github.com/user-attachments/assets/f7380c98-1aee-44b6-b5a7-d31532af0fc5)
+   ![image](https://github.com/user-attachments/assets/02a6fce7-b314-48e8-8e5e-876b38b29731)
 
     Memilih menambah lagi, akan diarahkan ke masukkan tambah barang
    
-    ![Cuplikan layar 2024-10-14 220208](https://github.com/user-attachments/assets/aea92551-ac7f-452e-a747-fde50fa2d525)
+    ![image](https://github.com/user-attachments/assets/2efc3127-1014-43bd-88d9-e5d528189ae2)
 
-    ![Cuplikan layar 2024-10-14 220353](https://github.com/user-attachments/assets/233b281b-0424-4424-9a08-f244b4e5dcc3)
+    ![image](https://github.com/user-attachments/assets/52919bf0-e35a-48e6-a005-8272e100424a)
 
-3. Admin memilih lihat paket, maka akan menampilkan paket yang tersedia
+4. Admin memilih perbarui paket, maka akan diarahkan ke masukkan nomor paket yang ingin diperbarui, lalu memasukkan pilihan yang ingin diubah, kemudian memasukkan nama pembaruan dari yang telah dipilih (nama/harga/include)
 
-   ![Cuplikan layar 2024-10-14 220526](https://github.com/user-attachments/assets/8f5c4bb2-55aa-468a-b9dd-9349d704ab7b)
-
-4. Admin memilih perbarui paket, maka akan diarahkan ke masukkan nomor paket yang ingin diperbarui, lalu memasukkan pilihan yang ingin diubah, kemudian memasukkan nama pembaruan dari yang telah dipilih (nama/harga/include/stok)
-
-   ![Cuplikan layar 2024-10-14 220707](https://github.com/user-attachments/assets/01d1cc3c-f200-42c8-83d3-d3dd01688353)
+   ![image](https://github.com/user-attachments/assets/3b42f02b-50f8-412e-83d0-8fe4f9752fdf)
 
    Jika admin salah memasukkan nomor paket, akan diarahkan kembali ke masukkan nomor paket yang ingin diperbarui
 
-   ![Cuplikan layar 2024-10-14 221629](https://github.com/user-attachments/assets/48c9822e-6a59-480f-b311-942ece0542be)
+   ![image](https://github.com/user-attachments/assets/98ed3d55-9bd9-49f7-9b50-06c16e4e3d76)
 
 5. Admin memilih hapus paket, maka akan diarahkan ke masukkan nomor paket yang ingin dihapus. Setelah berhasil dihapus, admin memilih ingin menghapus lagi atau tidak. Jika memilih tidak maka akan diarahkan ke menu admin
 
-   ![Cuplikan layar 2024-10-14 221100](https://github.com/user-attachments/assets/72b4ae87-ceb0-464e-b8c7-b449f9b7395d)
+   ![image](https://github.com/user-attachments/assets/c0b0f4b2-999c-4e10-b158-5580b5b63669)
 
    Jika admin memilih ingin menghapus lagi, maka akan diarahkan ke masukkan nomor paket yang ingin dihapus
 
-   ![Cuplikan layar 2024-10-14 221328](https://github.com/user-attachments/assets/44be5865-2604-42d4-b45c-e80e39ab06d2)
+   ![image](https://github.com/user-attachments/assets/9ab019d2-f118-4df7-9850-9cdd76a86d43)
 
    Jika admin salah memasukkan nomor paket, akan diarahkan kembali ke masukkan nomor paket yang ingin dihapus
 
-   ![Cuplikan layar 2024-10-14 221455](https://github.com/user-attachments/assets/a81d8ead-c1a4-4467-a960-38677e62b842)
+   ![image](https://github.com/user-attachments/assets/9567c902-fadc-4b7b-86e1-00675c6c8c5f)
 
 6.  Admin memilih keluar dari program, Selesai.
 
@@ -73,7 +69,7 @@ Indah Putri Lestari | 2409116004 | Sistem Informasi A
 7.  Setelah login pelanggan berhasil, akan menampilkan tabel paket wedding
     Pelanggan memilih untuk order atau tidak. Jika YA, maka akan diarahkan ke pilihan paket yang ingin di order, lalu memilih pembayaran DP 50% / Full Pembayaran. Pelanggan memilih DP, maka harga paket akan dikurangin DP 50%. Pelanggan mengkonfirmasi orderan dengan memilih (YA/TIDAK). Jika memilih YA, maka orderan berhasil.
     
-    ![Cuplikan layar 2024-10-14 222635](https://github.com/user-attachments/assets/e9259d87-025f-4d0c-be74-8edab4823b0c)
+    ![Cuplikan layar 2024-10-14 222635](https://github.com/user-attachments/assets/94da230f-437d-473b-b275-26642d9feb58)
 
     Pelanggan memilih pembayaran DP, namun tidak konfirmasi, maka orderan dibatalkan
     ![Cuplikan layar 2024-10-14 223527](https://github.com/user-attachments/assets/532dfee8-5db1-430c-9a85-7918d38b9f05)
@@ -92,7 +88,7 @@ Indah Putri Lestari | 2409116004 | Sistem Informasi A
 
     Pelanggan memilih untuk order atau tidak. Jika Tidak, maka akan diarahkan ke selesai
 
-    ![Cuplikan layar 2024-10-14 223410](https://github.com/user-attachments/assets/4b087d2d-0ca7-42bf-bb61-2a5705e910fc)
+    ![Cuplikan layar 2024-10-14 223410](https://github.com/user-attachments/assets/d12aaf9f-24ec-4442-bfd2-047775820f1e)
 
 
   
